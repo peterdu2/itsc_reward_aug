@@ -1,0 +1,27 @@
+name: turtlebot
+channels:
+    - https://conda.anaconda.org/menpo
+    - conda-forge
+dependencies:
+    - python==3.5.2
+    - numpy
+    - matplotlib
+    - jupyter
+    - opencv3
+    - pillow
+    - scikit-learn
+    - scikit-image
+    - scipy
+    - h5py
+    - eventlet
+    - flask-socketio
+    - seaborn
+    - pandas
+    - glib=2.58.2
+    - imageio
+    - pip:
+        - moviepy
+        - tensorflow==1.1
+        - keras==1.2
+        - pango=1.39.0
+        - harfbuzz=0.9.39

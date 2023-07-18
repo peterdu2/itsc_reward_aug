@@ -1,0 +1,5 @@
+Average ax_high: 0.671814611734895
+Std ax_high: 0.185625048780078
+Average ay_high: 0.4850074504018238
+Std ay_high: 0.27623732616101276
+

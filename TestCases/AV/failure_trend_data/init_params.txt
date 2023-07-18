@@ -1,0 +1,1 @@
+sim = multi_car_simulator(num_peds=2,use_seed=False,spaces=spaces, max_path_length=max_path_length, car_init_x=-30, v_des=10.0, min_dist_x=0.6, min_dist_y=0.6, car_init_x2=-45, v_des2=12.0, ped_initial_states=pedestrian_init_state)

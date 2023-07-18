@@ -1,0 +1,7 @@
+PARAMS:
+
+Car init position:	x=-20m
+Car init velocity:	11.11m/s (~40km/h)
+Minimum distance:	x=0.5m, y=0.5m
+Peds init position:	x=0, y=-0.5m
+Num iterations:		125000
